@@ -1,7 +1,7 @@
 
 <h1>Hi there <img src="hello.svg"></h1>
 
-- 🌱 I’m senior full stack engineer (Python/JS/AWS) currently learning Elixir
+- 🌱 Welcome to my github profile. At the moment I'm using this mostly for my personal projects. 
 - 📫 [linkedin](https://www.linkedin.com/in/mariusz-raczynski/)
 - 🔭 [cv](https://drive.google.com/file/u/1/d/1leMPWF90IDYrxVqAsAqtTdlVZB_yDbiM/view)
 
